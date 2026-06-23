@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltrain-704&label=Profile%20views&color=0e75b6&style=flat" alt="eltrain-704" /> </p>
 
-- 🔭 I’m currently working on **Unibeta and NexTrend**
+- 🔭 I’m currently working on **PayIT, Residentia & Aidpod**
 
-- 🌱 I’m currently learning **APIs, Advanced State Management (Flutter)**
+- 🌱 I’m currently learning **System Architecture and Node.js**
 
-- 👯 I’m looking to collaborate on **Flutter and Web 3 Projects**
+- 👯 I’m looking to collaborate on **Dart, Flutter and Cardano Projects**
 
 - 🤝 I’m looking for help with **Solidity, Flutter API Integration**
 
-- 💬 Ask me about **Dart, Flutter, Cross-platform Development, Version Control (GitHub)**
+- 💬 Ask me about **Dart, Flutter, Cross-platform Development and Cardano**
 
-- 📫 How to reach me **eltrain704@gmail.com**
+- 📫 How to reach me **okeowoquam1@gmail.com**
 
 - ⚡ Fun fact **Waves are my favorite thing, everything move in waves.**
 
